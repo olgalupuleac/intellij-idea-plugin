@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.toolwindow;
+package com.github.olgalupuleac.intellijideaplugin.toolwindow;
 
 
 import com.intellij.openapi.wm.ToolWindow;
